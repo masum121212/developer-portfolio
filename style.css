@@ -68,4 +68,9 @@ h2{
 }
 footer p{
     text-align: center;
+    color: white;
+    background-color: gray;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    margin: 0px;
 }
