@@ -50,7 +50,7 @@ h2{
     margin-right: 5%;
     padding-left: 10px;
     border-radius: 10px;
-    box-shadow: 10px 10px 40px greenyellow;
+    box-shadow: 10px 10px 40px tomato;
 }
 #exp{
     text-align: center;
@@ -62,7 +62,7 @@ h2{
     border-image-slice: 1;
 }
 #full-stack-experience{
-    border-left: 7px dotted;
+    border-left: 7px solid;
     border-image: linear-gradient(orange, tomato, deeppink);
     border-image-slice: 1;
 }
